@@ -6,6 +6,8 @@
 - [Composer](https://getcomposer.org/)
 - [Apache](https://httpd.apache.org/) / [Nginx](https://www.nginx.com/)
 - [MySQL](https://www.mysql.com/)
+- Free key from [Exchange Rate](https://www.exchangerate-api.com/)
+- Free key from [Gold API](https://goldapi.io)
 
 ::: warning  
 You can run `php artisan serv` if you don't want to install a webserver

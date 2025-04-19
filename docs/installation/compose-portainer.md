@@ -4,6 +4,8 @@
 
 - [Portainer](https://hub.docker.com/r/portainer/portainer-ce)
 - [Docker](https://www.docker.com/)
+- Free key from [Exchange Rate](https://www.exchangerate-api.com/)
+- Free key from [Gold API](https://goldapi.io)
 
 ## How To Install
 Go to [Github](https://github.com/Cybrarist/Discount-Bandit) and check [docker-compose](https://github.com/Cybrarist/Discount-Bandit/blob/master/docker-compose.yml) file.
