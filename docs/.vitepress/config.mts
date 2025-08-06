@@ -4,6 +4,8 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Zakaty",
   description: "Selfhosted Multiuser zakah tracker",
+  lang: 'en-US',
+  cleanUrls:true,
   markdown: {
     image: {
       // image lazy loading is disabled by default
